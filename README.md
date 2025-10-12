@@ -1,2 +1,3 @@
-Para rodar:
-In terminal: python main.py
+## Running in terminal:
+```bash
+python main.py

@@ -2,7 +2,7 @@
 ```bash
 python main.py
 ```
-or macos:
+or MacOS:
 ```bash
 python3 main.py
 ```

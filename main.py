@@ -2,7 +2,7 @@ import requests
 import json
 import time
 
-WEBHOOK_URL = "https://bielpassos.app.n8n.cloud/webhook/teste"
+WEBHOOK_URL = "YOUR_API_N8N"
 MESSAGE_KEY = "message"
 
 
@@ -61,3 +61,4 @@ if __name__ == "__main__":
 
             if user_input.strip():
                 enviar_mensagem(user_input)
+

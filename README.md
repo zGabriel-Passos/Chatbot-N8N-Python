@@ -23,7 +23,7 @@
     - Method: POST
     - Path: qualquer nome (ex: chat)
     - Authentication: None (ou configure a seu critério)
-    - Response Mode: `Last Node**
+    - Response Mode: `Last Node**`
   3. Adicione um nó de IA (qualquer LLM de sua escolha)
   4. Conecte o Webhook ao nó de IA
   5. Adicione um nó Respond to Webhook no final para enviar a resposta
@@ -48,8 +48,5 @@
   ├─────────────┼──────────────────────────────┼───────────┤
   │ MESSAGE_KEY │ Chave da mensagem no payload │ "message" │
   └─────────────┴──────────────────────────────┴───────────┘
-
+```
   📄 Licença
-
-  ISC
-  ```

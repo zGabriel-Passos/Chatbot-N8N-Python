@@ -30,8 +30,10 @@
   6. Ative o workflow e copie a URL de produção
   7. Cole a URL no lugar de YOUR_API_N8N no código
 
-  📝 Exemplo de Resposta
+```
 
+## 📝 Exemplo de Resposta
+```bash
 
   --- Chatbot Simples (n8n + Python) ---
   Digite 'sair' para encerrar a conversa.
@@ -39,8 +41,10 @@
   Você: Olá, como vai?
   IA: Olá! Tudo bem, obrigado por perguntar! E você?
 
-  🔧 Configuração
+```
+## 🔧 Configuração
 
+```bash
   ┌─────────────┬──────────────────────────────┬───────────┐
   │  Variável   │          Descrição           │  Padrão   │
   ├─────────────┼──────────────────────────────┼───────────┤
@@ -49,4 +53,3 @@
   │ MESSAGE_KEY │ Chave da mensagem no payload │ "message" │
   └─────────────┴──────────────────────────────┴───────────┘
 ```
-  📄 Licença
